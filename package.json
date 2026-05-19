@@ -1,0 +1,26 @@
+{
+  "name": "commerceflow-enterprise-ai-dashboard",
+  "private": true,
+  "version": "2.0.0",
+  "type": "module",
+  "description": "Portfolio-ready AI commerce growth dashboard with web dashboard, mobile app UI, RBAC account management and mock analytics architecture.",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "lucide-react": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "recharts": "latest",
+    "typescript": "latest",
+    "vite": "latest"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3"
+  }
+}

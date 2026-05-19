@@ -1,0 +1,17 @@
+{
+  "name": "CommerceFlow AI Growth OS",
+  "short_name": "CommerceFlow",
+  "description": "AI commerce analytics dashboard portfolio project",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f7fb",
+  "theme_color": "#101828",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
